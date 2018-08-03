@@ -31,20 +31,30 @@
     </item>
     
     <item>
-      <title>RNA-seq</title>
-      <link>https://kkyinli.github.io/project/example-external-project/</link>
+      <title>Enrichment Map User guide</title>
+      <link>https://kkyinli.github.io/project/enrichment/</link>
       <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://kkyinli.github.io/project/example-external-project/</guid>
+      <guid>https://kkyinli.github.io/project/enrichment/</guid>
+      <description>&lt;p&gt;Wait patiently.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RNA-seq</title>
+      <link>https://kkyinli.github.io/project/rna-seq/</link>
+      <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kkyinli.github.io/project/rna-seq/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>cytoscape</title>
-      <link>https://kkyinli.github.io/project/cytoscape/</link>
+      <title>cbioPortal</title>
+      <link>https://kkyinli.github.io/project/cbioportal/</link>
       <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://kkyinli.github.io/project/cytoscape/</guid>
+      <guid>https://kkyinli.github.io/project/cbioportal/</guid>
       <description>&lt;p&gt;Wait patiently.&lt;/p&gt;
 </description>
     </item>

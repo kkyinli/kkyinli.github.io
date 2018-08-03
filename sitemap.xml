@@ -41,7 +41,7 @@
     
     <url>
     
-      <loc>https://kkyinli.github.io/project/example-external-project/</loc>
+      <loc>https://kkyinli.github.io/project/enrichment/</loc>
       <lastmod>2016-12-15T00:00:00+00:00</lastmod>
     </url>
     
@@ -50,7 +50,16 @@
     
     <url>
     
-      <loc>https://kkyinli.github.io/project/cytoscape/</loc>
+      <loc>https://kkyinli.github.io/project/rna-seq/</loc>
+      <lastmod>2016-12-15T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kkyinli.github.io/project/cbioportal/</loc>
       <lastmod>2016-12-15T00:00:00+00:00</lastmod>
     </url>
     
@@ -78,7 +87,7 @@
     
     <url>
     
-      <loc>https://kkyinli.github.io/tags/cytoscape/</loc>
+      <loc>https://kkyinli.github.io/tags/cbioportal/</loc>
       <lastmod>2016-12-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -88,7 +97,7 @@
     
     <url>
     
-      <loc>https://kkyinli.github.io/tags/gsea/</loc>
+      <loc>https://kkyinli.github.io/tags/enrichment-map/</loc>
       <lastmod>2016-12-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -126,6 +135,16 @@
     
       <loc>https://kkyinli.github.io/publication_types/</loc>
       <lastmod>2017-12-15T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kkyinli.github.io/tags/rna-seq/</loc>
+      <lastmod>2016-12-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
