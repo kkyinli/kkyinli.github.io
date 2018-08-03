@@ -6,7 +6,7 @@
     <description>Recent content in Yin Li on Yin Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Yin Li</copyright>
+    <copyright>&amp;copy; 2018 Yin Li</copyright>
     <lastBuildDate>Fri, 15 Dec 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
@@ -1157,6 +1157,26 @@ With Jekyll, something that looked like&lt;/p&gt;
 &lt;h2 id=&#34;a-practical-example&#34;&gt;A practical example&lt;/h2&gt;
 
 &lt;p&gt;Alexandre Normand migrated his website from Jekyll to Hugo in less than a day. You can see all his changes by looking at this GitHub &lt;a href=&#34;https://github.com/alexandre-normand/alexandre-normand/compare/869d69435bd2665c3fbf5b5c78d4c22759d7613a...b7f6605b1265e83b4b81495423294208cc74d610&#34; target=&#34;_blank&#34;&gt;diff&lt;/a&gt;. However, bear in mind that this example is &lt;strong&gt;not specific to the Academic theme nor does it use the latest version of Hugo&lt;/strong&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Identification of Key Pathways and Genes in the Dynamic Progression of HCC Based on WGCNA</title>
+      <link>https://kkyinli.github.io/publication/hccdynamic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kkyinli.github.io/publication/hccdynamic/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>In silico analysis of expression data during the early priming stage of liver regeneration after partial hepatectomy in rat</title>
+      <link>https://kkyinli.github.io/publication/lrearly/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kkyinli.github.io/publication/lrearly/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
