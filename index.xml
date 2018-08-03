@@ -31,7 +31,7 @@
     </item>
     
     <item>
-      <title>GSEA</title>
+      <title>RNA-seq</title>
       <link>https://kkyinli.github.io/project/example-external-project/</link>
       <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
       
@@ -46,16 +46,6 @@
       
       <guid>https://kkyinli.github.io/project/cytoscape/</guid>
       <description>&lt;p&gt;Wait patiently.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Identification of Key Pathways and Genes in the Dynamic Progression of HCC Based on WGCNA</title>
-      <link>https://kkyinli.github.io/publication/hccdynamic-22/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kkyinli.github.io/publication/hccdynamic-22/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
