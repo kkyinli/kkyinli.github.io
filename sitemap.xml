@@ -41,7 +41,25 @@
     
     <url>
     
+      <loc>https://kkyinli.github.io/project/clusterprofiler/</loc>
+      <lastmod>2016-12-15T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://kkyinli.github.io/project/enrichment-map/</loc>
+      <lastmod>2016-12-15T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kkyinli.github.io/project/keggvisulization/</loc>
       <lastmod>2016-12-15T00:00:00+00:00</lastmod>
     </url>
     
@@ -105,7 +123,7 @@
     
     <url>
     
-      <loc>https://kkyinli.github.io/tags/enrichment_map/</loc>
+      <loc>https://kkyinli.github.io/tags/enrichment/</loc>
       <lastmod>2016-12-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
