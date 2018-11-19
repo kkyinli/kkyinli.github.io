@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>https://kkyinli.github.io/publication/compare/</loc>
+      <lastmod>2018-11-17T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://kkyinli.github.io/publication/carbohydrate-metaolism/</loc>
       <lastmod>2017-12-15T00:00:00+00:00</lastmod>
     </url>
@@ -41,7 +50,7 @@
     
     <url>
     
-      <loc>https://kkyinli.github.io/project/clusterprofiler/</loc>
+      <loc>https://kkyinli.github.io/project/enrichment_clusterprofiler/</loc>
       <lastmod>2016-12-15T00:00:00+00:00</lastmod>
     </url>
     
@@ -50,7 +59,7 @@
     
     <url>
     
-      <loc>https://kkyinli.github.io/project/enrichment-map/</loc>
+      <loc>https://kkyinli.github.io/project/enrichment_enrichment-map/</loc>
       <lastmod>2016-12-15T00:00:00+00:00</lastmod>
     </url>
     
@@ -59,7 +68,7 @@
     
     <url>
     
-      <loc>https://kkyinli.github.io/project/keggvisulization/</loc>
+      <loc>https://kkyinli.github.io/project/enrichment_keggvisulization/</loc>
       <lastmod>2016-12-15T00:00:00+00:00</lastmod>
     </url>
     
@@ -68,7 +77,7 @@
     
     <url>
     
-      <loc>https://kkyinli.github.io/project/rna-seq/</loc>
+      <loc>https://kkyinli.github.io/project/rna-seq_rna-seq-pipeline/</loc>
       <lastmod>2016-12-15T00:00:00+00:00</lastmod>
     </url>
     
@@ -77,7 +86,7 @@
     
     <url>
     
-      <loc>https://kkyinli.github.io/project/cbioportal/</loc>
+      <loc>https://kkyinli.github.io/project/cbioportal_userguide/</loc>
       <lastmod>2016-12-15T00:00:00+00:00</lastmod>
     </url>
     
@@ -87,7 +96,7 @@
     <url>
     
       <loc>https://kkyinli.github.io/publication_types/2/</loc>
-      <lastmod>2017-12-15T00:00:00+00:00</lastmod>
+      <lastmod>2018-11-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -160,7 +169,7 @@
     <url>
     
       <loc>https://kkyinli.github.io/publication_types/</loc>
-      <lastmod>2017-12-15T00:00:00+00:00</lastmod>
+      <lastmod>2018-11-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

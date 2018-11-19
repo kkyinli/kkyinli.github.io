@@ -11,6 +11,16 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Comparison of gene expression in liver regeneration and hepatocellular carcinoma formation</title>
+      <link>https://kkyinli.github.io/publication/compare/</link>
+      <pubDate>Sat, 17 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://kkyinli.github.io/publication/compare/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Expressions Profiles of the Proteins Associated with Carbohydrate Metabolism in Rat Liver Regeneration</title>
       <link>https://kkyinli.github.io/publication/carbohydrate-metaolism/</link>
       <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
@@ -32,49 +42,49 @@
     
     <item>
       <title>ClusterProfiler</title>
-      <link>https://kkyinli.github.io/project/clusterprofiler/</link>
+      <link>https://kkyinli.github.io/project/enrichment_clusterprofiler/</link>
       <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://kkyinli.github.io/project/clusterprofiler/</guid>
+      <guid>https://kkyinli.github.io/project/enrichment_clusterprofiler/</guid>
       <description>&lt;p&gt;Wait patiently.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Enrichment Map User guide</title>
-      <link>https://kkyinli.github.io/project/enrichment-map/</link>
+      <link>https://kkyinli.github.io/project/enrichment_enrichment-map/</link>
       <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://kkyinli.github.io/project/enrichment-map/</guid>
+      <guid>https://kkyinli.github.io/project/enrichment_enrichment-map/</guid>
       <description>&lt;p&gt;Wait patiently.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>KEGG visualization</title>
-      <link>https://kkyinli.github.io/project/keggvisulization/</link>
+      <link>https://kkyinli.github.io/project/enrichment_keggvisulization/</link>
       <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://kkyinli.github.io/project/keggvisulization/</guid>
+      <guid>https://kkyinli.github.io/project/enrichment_keggvisulization/</guid>
       <description>&lt;p&gt;Wait patiently.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>RNA-seq</title>
-      <link>https://kkyinli.github.io/project/rna-seq/</link>
+      <link>https://kkyinli.github.io/project/rna-seq_rna-seq-pipeline/</link>
       <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://kkyinli.github.io/project/rna-seq/</guid>
+      <guid>https://kkyinli.github.io/project/rna-seq_rna-seq-pipeline/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cbioportal</title>
-      <link>https://kkyinli.github.io/project/cbioportal/</link>
+      <link>https://kkyinli.github.io/project/cbioportal_userguide/</link>
       <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://kkyinli.github.io/project/cbioportal/</guid>
+      <guid>https://kkyinli.github.io/project/cbioportal_userguide/</guid>
       <description>&lt;p&gt;Wait patiently.&lt;/p&gt;
 </description>
     </item>
